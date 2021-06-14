@@ -1,3 +1,6 @@
+<h1>Muhammad Fariz Bintang</h1>
+<h2>Tambahan Baru</h2>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
